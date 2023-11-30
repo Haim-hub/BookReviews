@@ -1,4 +1,4 @@
-# ProjektDatabase
+# BookReviews
 
 A website to both log with books i have read, but also to make reviews of them
 
