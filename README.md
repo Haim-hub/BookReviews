@@ -1,6 +1,8 @@
 # BookReviews
 
-A website to both log with books i have read, but also to make reviews of them
+A website to both log with books i have read, but also to make reviews of them.
+
+The purpose of this site is not to make the product, but to practice my skills in React and MySQL.
 
 ## Pages
 
